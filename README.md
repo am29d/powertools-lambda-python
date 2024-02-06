@@ -65,6 +65,7 @@ The following companies, among others, use Powertools:
 * [Transformity](https://transformity.tech/)
 * [Trek10](https://www.trek10.com/)
 * [Vertex Pharmaceuticals](https://www.vrtx.com/)
+* [Alma Media](https://www.almamedia.fi/en/)
 
 ### Sharing your work
 
